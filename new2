@@ -1,0 +1,6 @@
+echo "git init"
+echo "git add ."
+echo "git commit -m "commit""
+echo "git branch -M main"
+echo "git remote add origin https://....."
+echo "git push -u origin main"
