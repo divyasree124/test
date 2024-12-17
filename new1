@@ -3,3 +3,5 @@ for i in 10
 do 
 echo $i
 done
+echo "print 10"
+echo "number"
